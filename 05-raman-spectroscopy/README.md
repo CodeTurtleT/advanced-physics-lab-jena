@@ -1,4 +1,4 @@
-# 05 – Raman Spectroscopy of Carbon Nanostructures
+# Raman Spectroscopy of Carbon Nanostructures
 
 **Advanced lab course, FSU Jena · June 2026 · with Nelly · supervisor: Dr. M. Grünewald**
 

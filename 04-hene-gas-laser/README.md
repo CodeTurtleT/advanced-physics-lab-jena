@@ -1,4 +1,4 @@
-# 04 – HeNe Gas Laser
+# HeNe Gas Laser
 
 **Advanced lab course, FSU Jena · Apr. 2026 · with Nelly · supervisor: Dr. J. Hein**
 

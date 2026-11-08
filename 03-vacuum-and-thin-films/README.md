@@ -1,4 +1,4 @@
-# 03 – Vacuum Technology and Thin-Film Evaporation
+# Vacuum Technology and Thin-Film Evaporation
 
 **Advanced lab course, FSU Jena · Jan. 2026 · with Lisa · supervisor: M. Thürk**
 

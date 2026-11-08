@@ -1,4 +1,4 @@
-# 01 – Holography
+# Holography
 
 **Advanced lab course, FSU Jena · Nov. 2025 · with Lisa · supervisor: Dr. S. Schmidl**
 

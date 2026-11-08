@@ -1,4 +1,4 @@
-# 06 – Mössbauer Spectroscopy of Iron and Stainless Steel
+# Mössbauer Spectroscopy of Iron and Stainless Steel
 
 **Advanced lab course, FSU Jena · May 2026 · with Nelly · supervisor: Dr. S. Sadashivaiah**
 

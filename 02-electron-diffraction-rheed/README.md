@@ -1,4 +1,4 @@
-# 02 – Electron Diffraction (RHEED) on Ag(100)
+# Electron Diffraction (RHEED) on Ag(100)
 
 **Advanced lab course, FSU Jena · Dec. 2025 · with Lisa · supervisor: Dr. M. Grünewald**
 

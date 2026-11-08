@@ -1,4 +1,4 @@
-# 07 – Seminar: Optical Fourier-Transform Spectroscopy
+# Seminar: Optical Fourier-Transform Spectroscopy
 
 **Seminar, FSU Jena · July 2026 · individual project (measurements, analysis and talk done on my own) · supervisor: Dr. S. Schmidl**
 
