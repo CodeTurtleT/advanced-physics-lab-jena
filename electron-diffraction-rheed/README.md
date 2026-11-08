@@ -1,28 +1,29 @@
-# Electron Diffraction (RHEED) on Ag(100)
+# Electron Diffraction on a Silver Surface (RHEED)
 
-**Advanced lab course, FSU Jena · Dec. 2025 · with Lisa · supervisor: Dr. M. Grünewald**
-
-**Grade: 1.23** (theory test 1.7 · experimental work 1.0 · report 1.0; German scale, 1.0 = best)
+*Advanced lab course, FSU Jena · Dec. 2025 · with Lisa · supervisor: Dr. M. Grünewald*
+**Grade: 1.23** (theory test 1.7 · experimental work 1.0 · report 1.0)
 
 <p align="center"><img src="figures/FP_EB_Spannung_Vergleich_Final.png" width="65%" alt="RHEED streak spacing vs. acceleration voltage"/></p>
 
-## What we did
-Reflection high-energy electron diffraction (RHEED) on a silver single crystal in ultra-high vacuum:
-1. Identified the two high-symmetry directions of the fcc surface by rotating the sample.
-2. Varied the **acceleration voltage (10–25 kV)** and the **angle of incidence**.
-3. **Sputtered** the surface with ions, then **annealed** it while recording the diffraction pattern.
-4. Studied the effect of **electron irradiation** on the pattern.
-5. **Evaporated KCl** onto Ag(100) and followed the epitaxial growth in the RHEED pattern.
+## The idea
+Electrons are waves too. In **RHEED** (reflection high-energy electron diffraction) a beam of fast electrons grazes a crystal surface at a very flat angle and diffracts off the top atomic layers. The pattern on a fluorescent screen is a fingerprint of the surface: sharp streaks mean a smooth, ordered surface, spots mean a rough one. Because it works *during* growth, RHEED is a standard tool for watching thin films grow, atomic layer by atomic layer.
 
-## Analysis
-- Fitted the streak spacing with the de Broglie relation, *l(U) = a/√U + b*, for raw and calibrated data and compared with theory (`FP_theorie3_real_UA.py`, `FP_EB_Spannung_*.py`).
-- Extracted line profiles from the RHEED images (grey values) and tracked peak, background and mean intensity during annealing, electron irradiation and two deposition phases (`FP_EB_Ausheilen_*.py`, `FP_EB_Elektronenbeschuss*.py`, `*Bedampfung*.py`).
-- Compared streak spacings of substrate (Ag) and adsorbate (KCl) to discuss the epitaxial relation (`epexierelation.py`).
+## What we did
+In an **ultra-high-vacuum** chamber with a silver single crystal, Ag(100), we:
+1. found the two high-symmetry directions of the crystal by rotating the sample,
+2. varied the electron energy (10–25 keV) and the angle of incidence,
+3. roughened the surface by **ion sputtering** and healed it again by **annealing**,
+4. tested what the electron beam itself does to the surface,
+5. **evaporated potassium chloride (KCl)** onto the silver and followed the growth of the new layer in real time.
+
+## How I analysed it
+- Fitted the streak spacing against voltage with the de Broglie relation, *l(U) = a/√U + b*, and compared calibrated data with theory.
+- Turned RHEED screenshots into **intensity line profiles** and tracked peak height, background and mean intensity during annealing, electron irradiation and the two deposition phases.
+- Compared the streak spacings of silver and KCl to work out how the two crystal lattices line up (epitaxial relation).
 
 ## Results
-- Sputtering roughened the surface: streaks turned into spot-like reflections (3D topography). After annealing the streak pattern returned with better quality and less noise than before.
-- With increasing KCl coverage, additional KCl features appeared and the Ag streaks weakened, which shows epitaxial growth.
+- Measured spacing and theory agree: the electrons behave as waves with λ ∝ 1/√U.
+- After sputtering, the streaks broke up into spots (a rough 3D surface). After annealing, the streaks came back, sharper and with less noise than before.
+- As KCl covered the surface, new KCl reflections appeared and the silver streaks faded, which is the signature of ordered, epitaxial growth.
 
-## Files
-- `analysis/`: Python scripts and the CSV data they read
-- `figures/`: plots used in the report
+<p align="center"><img src="figures/FP_EB_Ausheilen_Position.png" width="60%" alt="Intensity profiles during annealing"/></p>

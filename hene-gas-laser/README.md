@@ -1,24 +1,25 @@
 # HeNe Gas Laser
 
-**Advanced lab course, FSU Jena · Apr. 2026 · with Nelly · supervisor: Dr. J. Hein**
-
-**Grade: 1.33** (theory test 1.0 · experimental work 2.0 · report 1.0; German scale, 1.0 = best)
+*Advanced lab course, FSU Jena · Apr. 2026 · with Nelly · supervisor: Dr. J. Hein*
+**Grade: 1.33** (theory test 1.0 · experimental work 2.0 · report 1.0)
 
 <p align="center"><img src="figures/gaslaser_2_fig1.png" width="60%" alt="Inverse beat frequency vs. mirror displacement with linear fit"/></p>
 
-## What we did
-- Aligned an open HeNe resonator and generated **transverse modes up to TEM₄₀**; measured the output power per mode.
-- Measured the **beam waist** inside and outside the resonator for different resonator lengths.
-- Measured the **beat frequency of neighbouring longitudinal modes** while changing the resonator length, to determine the speed of light.
+## The idea
+A laser is a light amplifier between two mirrors. The mirrors decide which light patterns can survive: **transverse modes** (the beam's cross-section, from a single spot to several lobes) and **longitudinal modes** (the exact frequencies that fit as standing waves between the mirrors). In this experiment the resonator is open, so you can move the mirrors yourself and see how the beam changes.
 
-## Analysis
-- **Gaussian-beam / ABCD-matrix model:** the output coupler acts as a plano-concave lens. Back-propagating the far-field radii with ABCD matrices gave waist radii that match theory; pure free-space propagation gave systematically too small values (`gaslaser_2.ipynb`).
-- **Linear regression** of 1/Δν against mirror displacement at L ≈ 50 cm and 75 cm, with error propagation.
+## What we did
+- Aligned the open helium-neon resonator and produced **transverse modes up to TEM₄₀** and measured the output power of each mode.
+- Measured the **beam radius** inside and outside the resonator for several resonator lengths, to find the beam waist.
+- Measured the **beat frequency between neighbouring longitudinal modes** (around 200–300 MHz) while moving one mirror over ±2 mm.
+
+## How I analysed it
+- Modelled the beam as a **Gaussian beam** and propagated it with **ABCD matrices**. The output mirror acts as a weak diverging lens, and including it was essential: a simple free-space model gave waists that were systematically too small.
+- **Linear regression** of the inverse beat frequency against mirror position for two resonator lengths, with full error propagation. The slope gives the speed of light, the intercept the effective optical length of the resonator.
 
 ## Results
-- **c = (2.98 ± 0.03)·10⁸ m/s** from the longitudinal-mode beat, plus the effective optical resonator length (longer than the geometric length because of the mirrors, Brewster windows and gas).
-- Output power drops almost linearly with mode order, from **0.40 mW (TEM₀₀)** to 0.01 mW (TEM₄₀).
+- **Speed of light: c = (2.98 ± 0.03)·10⁸ m/s**, in agreement with the defined value.
+- The optical resonator length is longer than the measured one, because light travels slower in the mirrors, Brewster windows and gas.
+- Output power drops almost linearly with mode order, from **0.40 mW (TEM₀₀)** to 0.01 mW (TEM₄₀): higher modes lose more light at the aperture.
 
-## Files
-- `analysis/`: Jupyter notebooks and the measured values (`GL - Messwerte.xlsx`)
-- `figures/`: plots exported from the notebooks
+<p align="center"><img src="figures/strahltaille_mit_fehlern.png" width="55%" alt="Beam waist vs. resonator length with error bars"/></p>
