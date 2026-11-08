@@ -25,7 +25,7 @@ I did the experiments with my lab partners Lisa (holography, RHEED, vacuum) and 
 | [**HeNe gas laser**](hene-gas-laser) | Opening up a laser to shape its beam and its modes | Speed of light from the laser's mode beat: (2.98 ± 0.03)·10⁸ m/s | 1.33 |
 | [**Raman spectroscopy**](raman-spectroscopy) | Identifying materials by how they scatter laser light | Carbon-nanotube diameters of 0.95 nm and 1.43 nm | 1.67 |
 | [**Mössbauer spectroscopy**](moessbauer-spectroscopy) | Using gamma rays to feel the magnetic field at an iron nucleus | Stainless steel: 82 % non-magnetic, 18 % magnetic phase | 1.1 |
-| [**Seminar: Fourier-transform spectroscopy**](seminar-fourier-spectroscopy) | Turning an interference pattern into a spectrum | Resolving the two yellow sodium lines, 0.6 nm apart | – |
+| [**Seminar: Fourier-transform spectroscopy**](seminar-fourier-spectroscopy) | Self-chosen, six-month project: how a spectrometer turns an interference pattern into a spectrum, and what you can measure with it | Resolving the two yellow sodium lines 0.6 nm apart; fingerprint bands of benzene | |
 
 ## What I learned
 
