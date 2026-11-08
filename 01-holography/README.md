@@ -1,6 +1,6 @@
 # 01 – Holography
 
-**Advanced lab course, FSU Jena · Nov. 2025 · team of two**
+**Advanced lab course, FSU Jena · Nov. 2025 · with Lisa · supervisor: Dr. S. Schmidl**
 
 <p align="center"><img src="figures/holographie_rekonstruktion.png" width="60%" alt="Reconstructed transmission hologram"/></p>
 

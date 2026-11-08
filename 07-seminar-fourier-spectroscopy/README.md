@@ -1,6 +1,6 @@
 # 07 – Seminar: Optical Fourier-Transform Spectroscopy
 
-**Seminar talk, FSU Jena · July 2026 · individual project, supervised by Dr. S. Schmidl**
+**Seminar, FSU Jena · July 2026 · individual project (measurements, analysis and talk done on my own) · supervisor: Dr. S. Schmidl**
 
 <p align="center"><img src="figures/Zero_Padding_Subplots.png" width="70%" alt="Effect of zero-padding on the FT spectrum"/></p>
 

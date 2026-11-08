@@ -1,6 +1,6 @@
 # 03 – Vacuum Technology and Thin-Film Evaporation
 
-**Advanced lab course, FSU Jena · Jan. 2026 · team of two**
+**Advanced lab course, FSU Jena · Jan. 2026 · with Lisa · supervisor: M. Thürk**
 
 <p align="center"><img src="figures/Druckanstieg_24h.png" width="60%" alt="Pressure rise of the closed chamber over 24 h"/></p>
 

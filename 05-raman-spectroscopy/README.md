@@ -1,6 +1,6 @@
 # 05 – Raman Spectroscopy of Carbon Nanostructures
 
-**Advanced lab course, FSU Jena · June 2026 · team of two**
+**Advanced lab course, FSU Jena · June 2026 · with Nelly · supervisor: Dr. M. Grünewald**
 
 <p align="center"><img src="figures/Referenzprobe_CNT_-_auf_Kreuz_-_RBM.png" width="65%" alt="Raman spectrum of carbon nanotubes: radial breathing modes"/></p>
 

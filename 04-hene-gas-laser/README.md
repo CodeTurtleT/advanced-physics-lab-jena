@@ -1,6 +1,6 @@
 # 04 – HeNe Gas Laser
 
-**Advanced lab course, FSU Jena · Apr. 2026 · team of two**
+**Advanced lab course, FSU Jena · Apr. 2026 · with Nelly · supervisor: Dr. J. Hein**
 
 <p align="center"><img src="figures/gaslaser_2_fig1.png" width="60%" alt="Inverse beat frequency vs. mirror displacement with linear fit"/></p>
 

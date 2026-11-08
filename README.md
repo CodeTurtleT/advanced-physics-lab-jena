@@ -2,7 +2,7 @@
 
 Data analysis from my advanced lab course (*Fortgeschrittenenpraktikum*) and a seminar on Fourier-transform spectroscopy, B.Sc. Physics at Friedrich Schiller University Jena (2025–2026).
 
-Each experiment was a multi-day team experiment (teams of two) with a written report of 25–50 pages. This repository collects the **Python analysis**: fits with uncertainties, signal processing, baseline correction, spectral fitting and the figures that went into the reports.
+Each lab experiment was a multi-day experiment in a team of two (with my lab partners Lisa and Nelly) and ended with a written report of 25–50 pages. The Fourier-spectroscopy seminar was an individual project. This repository collects the **Python analysis**: fits with uncertainties, signal processing, baseline correction, spectral fitting and the figures that went into the reports.
 
 <p align="center">
   <img src="05-raman-spectroscopy/figures/Referenzprobe_CNT_-_auf_Kreuz_-_RBM.png" width="48%" alt="Raman spectrum of carbon nanotubes: radial breathing modes with Lorentz fit"/>
@@ -39,5 +39,5 @@ Each `analysis/` folder contains the scripts or notebooks together with the meas
 
 ## Notes
 
-- These were team experiments. The analysis code here is the code we used for the reports; the reports themselves are not included.
+- The lab experiments were team experiments; the analysis code here is the code we used for the reports. The reports themselves are not included.
 - Some very large derived data files (zero-padded spectra, > 5 MB) are not included; see the seminar folder.

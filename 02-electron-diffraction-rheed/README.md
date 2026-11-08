@@ -1,6 +1,6 @@
 # 02 – Electron Diffraction (RHEED) on Ag(100)
 
-**Advanced lab course, FSU Jena · Dec. 2025 · team of two**
+**Advanced lab course, FSU Jena · Dec. 2025 · with Lisa · supervisor: Dr. M. Grünewald**
 
 <p align="center"><img src="figures/FP_EB_Spannung_Vergleich_Final.png" width="65%" alt="RHEED streak spacing vs. acceleration voltage"/></p>
 

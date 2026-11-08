@@ -1,6 +1,6 @@
 # 06 – Mössbauer Spectroscopy of Iron and Stainless Steel
 
-**Advanced lab course, FSU Jena · 2026 · team of two**
+**Advanced lab course, FSU Jena · May 2026 · with Nelly · supervisor: Dr. S. Sadashivaiah**
 
 <p align="center"><img src="figures/möss_auswertung_fig1.png" width="55%" alt="Folded Mössbauer spectrum of alpha-iron showing the six-line Zeeman pattern"/></p>
 
