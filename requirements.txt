@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+matplotlib
+openpyxl
+jupyterlab
+# Mössbauer notebooks only: Nuclear NEXUS (DESY), see https://fs-mcp.pages.desy.de/nuclear-nexus/
