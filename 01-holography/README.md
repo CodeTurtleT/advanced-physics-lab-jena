@@ -2,6 +2,8 @@
 
 **Advanced lab course, FSU Jena · Nov. 2025 · with Lisa · supervisor: Dr. S. Schmidl**
 
+**Grade: 1.33** (theory test 1.3 · experimental work 1.5 · report 1.2; German scale, 1.0 = best)
+
 <p align="center"><img src="figures/holographie_rekonstruktion.png" width="60%" alt="Reconstructed transmission hologram"/></p>
 
 ## What we did

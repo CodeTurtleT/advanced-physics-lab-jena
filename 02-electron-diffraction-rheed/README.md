@@ -2,6 +2,8 @@
 
 **Advanced lab course, FSU Jena · Dec. 2025 · with Lisa · supervisor: Dr. M. Grünewald**
 
+**Grade: 1.23** (theory test 1.7 · experimental work 1.0 · report 1.0; German scale, 1.0 = best)
+
 <p align="center"><img src="figures/FP_EB_Spannung_Vergleich_Final.png" width="65%" alt="RHEED streak spacing vs. acceleration voltage"/></p>
 
 ## What we did

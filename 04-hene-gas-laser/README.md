@@ -2,6 +2,8 @@
 
 **Advanced lab course, FSU Jena · Apr. 2026 · with Nelly · supervisor: Dr. J. Hein**
 
+**Grade: 1.33** (theory test 1.0 · experimental work 2.0 · report 1.0; German scale, 1.0 = best)
+
 <p align="center"><img src="figures/gaslaser_2_fig1.png" width="60%" alt="Inverse beat frequency vs. mirror displacement with linear fit"/></p>
 
 ## What we did
