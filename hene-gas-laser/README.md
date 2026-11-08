@@ -8,6 +8,9 @@
 ## The idea
 A laser is a light amplifier between two mirrors. The mirrors decide which light patterns can survive: **transverse modes** (the beam's cross-section, from a single spot to several lobes) and **longitudinal modes** (the exact frequencies that fit as standing waves between the mirrors). In this experiment the resonator is open, so you can move the mirrors yourself and see how the beam changes.
 
+<p align="center"><img src="figures/transverse_modes.png" width="90%" alt="Photos of transverse laser modes TEM00 to TEM40"/></p>
+<p align="center"><em>Transverse modes we produced, photographed in the far field: from the single spot of TEM₀₀ to five lobes in TEM₄₀.</em></p>
+
 ## What we did
 - Aligned the open helium-neon resonator and produced **transverse modes up to TEM₄₀** and measured the output power of each mode.
 - Measured the **beam radius** inside and outside the resonator for several resonator lengths, to find the beam waist.

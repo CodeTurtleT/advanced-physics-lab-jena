@@ -14,6 +14,15 @@ Almost every modern chip, mirror coating and quantum device is made in a vacuum.
 - **Evaporated copper and tin** onto glass plates. We measured the film thickness *during* growth with a quartz-crystal balance and *afterwards* with an interference microscope over a masked step.
 - Evaporated metal contact strips and recorded their **electrical resistance while the film was growing**.
 
+<p align="center">
+  <img src="figures/copper_film_transparent.png" width="30%" alt="Thin copper film, still transparent"/>
+  <img src="figures/copper_film_reflective.png" width="30%" alt="Thicker copper film, reflecting like a mirror"/>
+</p>
+<p align="center"><em>Copper evaporated onto glass. Left: our first film was so thin that it stayed transparent. Right: after a longer evaporation, a closed, mirror-like copper layer.</em></p>
+
+<p align="center"><img src="figures/coated_contact_plates.png" width="55%" alt="Two glass plates with evaporated copper, tin and bronze contact strips"/></p>
+<p align="center"><em>The two glass plates with evaporated contact strips (Cu, Sn and the Cu/Sn "bronze" layer) for the resistance measurements.</em></p>
+
 ## How I analysed it
 - Exponential fits *p(t) = p_end + p₀·e^(−At)* of the pump-down curves to get the pumping speed of each pump.
 - Linear fits of the pressure rise over short and long times to separate real leaks from virtual leaks (gas slowly escaping from surfaces).
