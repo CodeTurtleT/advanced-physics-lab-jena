@@ -3,6 +3,8 @@
 *Advanced lab course, FSU Jena · June 2026 · with Nelly · supervisor: Dr. M. Grünewald*
 **Grade: 1.67** (theory test 1.3 · experimental work 2.0 · report 1.7)
 
+📄 **[Full lab report (PDF, German)](report.pdf)**
+
 <p align="center"><img src="figures/Referenzprobe_CNT_-_auf_Kreuz_-_RBM.png" width="65%" alt="Raman spectrum of carbon nanotubes with fitted radial breathing modes"/></p>
 
 ## The idea

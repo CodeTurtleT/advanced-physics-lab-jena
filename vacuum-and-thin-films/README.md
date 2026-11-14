@@ -3,6 +3,8 @@
 *Advanced lab course, FSU Jena · Jan. 2026 · with Lisa · supervisor: M. Thürk*
 **Grade: 1.0** (theory test 1.0 · experimental work 1.0 · report 1.0)
 
+📄 **[Full lab report (PDF, German)](report.pdf)**
+
 <p align="center"><img src="figures/Druckanstieg_24h.png" width="60%" alt="Pressure rise of the closed vacuum chamber over 24 hours"/></p>
 
 ## The idea

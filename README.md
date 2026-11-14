@@ -36,7 +36,7 @@ I did the experiments with my lab partners Lisa (holography, RHEED, vacuum) and 
 
 ## Repository layout
 
-Each experiment has its own folder with a short explanation (`README.md`), the analysis code with the measurement data (`analysis/`) and the plots (`figures/`). The notebooks are saved with their outputs, so the results can be read directly on GitHub.
+Each experiment has its own folder with a short explanation (`README.md`), the full lab report as it was submitted (`report.pdf`, in German), the analysis code with the measurement data (`analysis/`) and the plots (`figures/`). The notebooks are saved with their outputs, so the results can be read directly on GitHub.
 
 ```bash
 pip install -r requirements.txt

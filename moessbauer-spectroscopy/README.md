@@ -3,6 +3,8 @@
 *Advanced lab course, FSU Jena · May 2026 · with Nelly · supervisor: Dr. S. Sadashivaiah*
 **Grade: 1.1** (theory test 1.0 · experimental work 1.0 · report 1.3)
 
+📄 **[Full lab report (PDF, German)](report.pdf)**
+
 <p align="center"><img src="figures/möss_auswertung_fig1.png" width="55%" alt="Mössbauer spectrum of alpha-iron showing six absorption lines"/></p>
 
 ## The idea
